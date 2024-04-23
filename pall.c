@@ -1,5 +1,4 @@
 #include "monty.h"
-
 void pall()
 {
     int val;

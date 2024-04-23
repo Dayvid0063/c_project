@@ -1,5 +1,4 @@
 #include "monty.h"
-
 void push(int data)
 {
     if(top == MAX - 1)
